@@ -1,0 +1,14 @@
+Objetivos personales para el máster en Full Stack Developer:
+
+1. Adquirir una base sólida en desarrollo web tanto en frontend como en backend, para poder desenvolverme con autonomía en proyectos personales o profesionales.
+
+2. Ser capaz de desarrollar una aplicación web completa desde cero, integrando bases de datos, lógica de negocio y diseño de interfaz.
+
+3. Complementar mi formación en emprendimiento (LEINN) con habilidades técnicas que me permitan llevar a cabo ideas propias sin depender desde el inicio de un equipo técnico externo.
+
+4. Familiarizarme con herramientas y metodologías de trabajo utilizadas por equipos de desarrollo profesionales (control de versiones, despliegue, testing, etc.).
+
+5. Construir una red de contactos dentro del ámbito del desarrollo para futuras colaboraciones o ideas de negocio.
+
+6. Disfrutar del proceso de aprendizaje y reforzar mi confianza en un ámbito que siempre me ha interesado pero que no había tenido la oportunidad de explorar a fondo.
+
